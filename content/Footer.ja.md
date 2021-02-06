@@ -1,9 +1,9 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "Copyright © Son Hiroki Hong-su "
 social: {
-  twitter: "#",
-  facebook: "#",
-  medium: "#"
+  twitter: "horumont",
+  facebook: "horumont",
+  github: "sonho463"
 }
 privacyText: "プライバシー"
 privacyHref: "#!"

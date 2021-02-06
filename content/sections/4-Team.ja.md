@@ -1,37 +1,37 @@
 ---
-anchor: "チーム"
-header: "チーム"
-subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
-content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+anchor: "スキル"
+header: "スキル"
+subheader: "そんの持っているスキルです"
+content: "これからも、どんどん新しいスキルを習得していきます。"
 teamMember: [
   {
     imageFileName: "team/1.jpg",
-    header: "Kay Garland",
-    subheader: "Lead Designer",
+    header: "HTML",
+    subheader: "",
     social: {
-      twitter: "#",
-      facebook: "#",
-      linkedin: "#"
+      # twitter: "#",
+      # facebook: "#",
+      # linkedin: "#"
     }
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Larry Parker",
-    subheader: "Lead Marketer",
+    header: "CSS3",
+    subheader: "",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
+      # twitter: "#",
+      # facebook: "#",
+      # medium: "#"
     }
   },
   {
     imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
-    subheader: "Lead Developer",
+    header: "JavaScript",
+    # subheader: "",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
+      # twitter: "#",
+      # facebook: "#",
+      # medium: "#"
     }
   },
 ]

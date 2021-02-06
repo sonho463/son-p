@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Son's Portfolio"
 menuText: "Menu "
 ---

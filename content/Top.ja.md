@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
+header: "そんほんすのポートフォリオ"
+subheader: "ようこそ！いらっしゃいました"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "サービス"
-jumpToAnchorText: "詳しくへ"
+jumpToAnchorText: "詳しく"
 ---
